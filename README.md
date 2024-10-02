@@ -1,6 +1,6 @@
 # Proyecto: Generación de Energía con Plantas mediante Celdas de Combustible Microbianas
 
-![Microbial Fuel Cell](https://example.com/mfc-image.png)
+![Microbial Fuel Cell](https://github.com/rralen/Generacion-de-energia-con-plantas/blob/main/G.%20con%20plantas/Conexion.jpeg)
 
 ## Descripción del Proyecto
 
